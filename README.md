@@ -35,7 +35,9 @@ Try It Out
 ----------
 
 Launch web browser and connect to your docker container's IP over https. 
+
 The default site is located at https://localhost/
+
 The default credientials are `lemur/password`
 
 The health check endpoint is located at https://localhost/api/1/healthcheck
